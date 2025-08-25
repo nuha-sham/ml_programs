@@ -13,3 +13,4 @@ print(model.predict([[100]]))
 print(model.coef_)
 print(model.intercept_)
 
+
